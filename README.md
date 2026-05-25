@@ -52,3 +52,37 @@ The dashboard transforms complex Zomato restaurant data into clear, visually app
 ![Dashboard Preview](Screenshot.png)
 
 ## Project Structure
+```
+Zomato-Sales-Analysis-Dashboard/
+├── data/
+│   └── zomato.csv
+├── Zomato_Sales_Analysis_Dashboard.pbix
+├── README.md
+├── Screenshot.png
+
+```
+## How to Use
+1. Download the `.pbix` file
+2. Open it using **Power BI Desktop**
+3. Interact with slicers (Price Range, City, Delivery options) and visuals
+4. Publish to Power BI Service for sharing with team or stakeholders
+
+## Skills Demonstrated
+- End-to-End Power BI Dashboard Development
+- Advanced DAX and Business Intelligence Logic
+- Data Modeling & ETL Processes
+- Restaurant Industry Analytics & Visualization Best Practices
+
+## Final Thoughts
+This Power BI dashboard offers a professional, modern, and highly interactive experience for analyzing Zomato’s restaurant ecosystem in India. It effectively converts raw restaurant data into valuable business intelligence, enabling better understanding of customer behavior, pricing strategy, and market presence.
+
+Feel free to give this project a ⭐ if you find it useful!
+
+Any feedback or suggestions are always welcome.
+
+## Connect with me
+- **LinkedIn**: [Patro Ramu](https://linkedin.com/in/yourprofile)
+- **GitHub**: [ramupathro07](https://github.com/ramupathro07)
+
+---
+**Made with ❤️ using Power BI**
