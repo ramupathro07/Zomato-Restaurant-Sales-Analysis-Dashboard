@@ -81,7 +81,7 @@ Feel free to give this project a ⭐ if you find it useful!
 Any feedback or suggestions are always welcome.
 
 ## Connect with me
-- **LinkedIn**: [Patro Ramu](www.linkedin.com/in/patro-ramu-0b2587231)
+- **LinkedIn**: [Patro Ramu](www.linkedin.com/in/patro-ramu-0b2587231
 - **GitHub**: [ramupathro07](https://github.com/ramupathro07)
 
 ---
